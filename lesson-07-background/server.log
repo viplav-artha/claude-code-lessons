@@ -1,0 +1,5 @@
+[22:13:13] INFO request handled ok (req #1)
+[22:13:15] INFO request handled ok (req #2)
+[22:13:17] INFO request handled ok (req #3)
+[22:13:20] ERROR database connection timed out
+[22:13:22] INFO recovered, back to normal
